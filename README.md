@@ -1,2 +1,2 @@
 # UNI-WELL
-This is an app for university students health tracking using MERN
+This is an mobile application for university students health tracking using React-Native
